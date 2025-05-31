@@ -1,0 +1,132 @@
+{
+  "proyecto": "Práctica 6: Contrato Inteligente de Verificación de Entregables",
+  "timestamp": "2025-05-31T23:31:58.031Z",
+  "resultados": {
+    "fibonacci": {
+      "fibonacci_10": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        5,
+        8,
+        13,
+        21,
+        34
+      ],
+      "fibonacci_15": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        5,
+        8,
+        13,
+        21,
+        34,
+        55,
+        89,
+        144,
+        233,
+        377
+      ],
+      "fibonacci_string": "Fibonacci(8): 0, 1, 1, 2, 3, 5, 8, 13",
+      "status": "SUCCESS"
+    },
+    "factorial": {
+      "factorial_5": 120,
+      "factorial_10": 3628800,
+      "factorial_detallado": {
+        "input": 12,
+        "result": 479001600,
+        "resultString": "479.001.600",
+        "digits": 9,
+        "executionTime": "0 ms"
+      },
+      "factorial_rango": [
+        {
+          "n": 1,
+          "factorial": 1,
+          "notation": "1! = 1"
+        },
+        {
+          "n": 2,
+          "factorial": 2,
+          "notation": "2! = 2"
+        },
+        {
+          "n": 3,
+          "factorial": 6,
+          "notation": "3! = 6"
+        },
+        {
+          "n": 4,
+          "factorial": 24,
+          "notation": "4! = 24"
+        },
+        {
+          "n": 5,
+          "factorial": 120,
+          "notation": "5! = 120"
+        },
+        {
+          "n": 6,
+          "factorial": 720,
+          "notation": "6! = 720"
+        }
+      ],
+      "status": "SUCCESS"
+    },
+    "conversor": {
+      "tipos_cambio": {
+        "oficial": {
+          "rate": 6.92,
+          "source": "ExchangeRate-API (Oficial)",
+          "timestamp": "2025-05-31T23:31:58.736Z",
+          "success": true
+        },
+        "paralelo": {
+          "rate": 8.42,
+          "source": "Mercado Paralelo (Simulado)",
+          "timestamp": "2025-05-31T23:31:59.033Z",
+          "success": true,
+          "variacionPorcentual": "21.7%"
+        },
+        "diferencia": {
+          "absoluta": "1.50",
+          "porcentual": "21.7%"
+        },
+        "timestamp": "2025-05-31T23:31:59.033Z",
+        "success": true
+      },
+      "conversion_100usd": {
+        "usd": 100,
+        "bob": 692,
+        "tipoCambio": 6.92,
+        "tipoUsado": "oficial",
+        "fuente": "ExchangeRate-API (Oficial)",
+        "timestamp": "2025-05-31T23:31:59.553Z",
+        "conversion": "100 USD = 692.00 BOB (oficial)"
+      },
+      "conversion_1000bob": {
+        "bob": 1000,
+        "usd": 121.36,
+        "tipoCambio": 8.24,
+        "tipoUsado": "paralelo",
+        "fuente": "Mercado Paralelo (Simulado)",
+        "timestamp": "2025-05-31T23:32:00.067Z",
+        "conversion": "1000 BOB = 121.36 USD (paralelo)"
+      },
+      "status": "SUCCESS"
+    }
+  },
+  "errores": [],
+  "resumen": {
+    "programas_exitosos": 3,
+    "programas_fallidos": 0,
+    "total_funciones": 12,
+    "estado_general": "TODOS LOS PROGRAMAS FUNCIONANDO CORRECTAMENTE"
+  }
+}

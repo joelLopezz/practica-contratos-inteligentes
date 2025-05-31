@@ -1,0 +1,33 @@
+{
+  "name": "practica-contratos-inteligentes",
+  "version": "1.0.0",
+  "description": "Práctica 6: Contrato Inteligente de Verificación de Entregables usando Solidity en Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/run-all-tests.js",
+    "test:fibonacci": "node programs/fibonacci.js",
+    "test:factorial": "node programs/factorial.js",
+    "test:conversor": "node programs/conversor-usd-bob.js",
+    "test:all": "npm run test:fibonacci && npm run test:factorial && npm run test:conversor",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "solidity",
+    "smart-contracts",
+    "javascript",
+    "testing"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TU-USUARIO/practica-contratos-inteligentes.git"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
