@@ -1,6 +1,6 @@
 {
   "proyecto": "Práctica 6: Contrato Inteligente de Verificación de Entregables",
-  "timestamp": "2025-05-31T23:31:58.031Z",
+  "timestamp": "2025-06-01T02:19:46.638Z",
   "resultados": {
     "fibonacci": {
       "fibonacci_10": [
@@ -84,21 +84,21 @@
         "oficial": {
           "rate": 6.92,
           "source": "ExchangeRate-API (Oficial)",
-          "timestamp": "2025-05-31T23:31:58.736Z",
+          "timestamp": "2025-06-01T02:19:47.392Z",
           "success": true
         },
         "paralelo": {
-          "rate": 8.42,
+          "rate": 8.17,
           "source": "Mercado Paralelo (Simulado)",
-          "timestamp": "2025-05-31T23:31:59.033Z",
+          "timestamp": "2025-06-01T02:19:47.660Z",
           "success": true,
-          "variacionPorcentual": "21.7%"
+          "variacionPorcentual": "18.0%"
         },
         "diferencia": {
-          "absoluta": "1.50",
-          "porcentual": "21.7%"
+          "absoluta": "1.25",
+          "porcentual": "18.1%"
         },
-        "timestamp": "2025-05-31T23:31:59.033Z",
+        "timestamp": "2025-06-01T02:19:47.660Z",
         "success": true
       },
       "conversion_100usd": {
@@ -107,17 +107,17 @@
         "tipoCambio": 6.92,
         "tipoUsado": "oficial",
         "fuente": "ExchangeRate-API (Oficial)",
-        "timestamp": "2025-05-31T23:31:59.553Z",
+        "timestamp": "2025-06-01T02:19:48.183Z",
         "conversion": "100 USD = 692.00 BOB (oficial)"
       },
       "conversion_1000bob": {
         "bob": 1000,
-        "usd": 121.36,
-        "tipoCambio": 8.24,
+        "usd": 118.91,
+        "tipoCambio": 8.41,
         "tipoUsado": "paralelo",
         "fuente": "Mercado Paralelo (Simulado)",
-        "timestamp": "2025-05-31T23:32:00.067Z",
-        "conversion": "1000 BOB = 121.36 USD (paralelo)"
+        "timestamp": "2025-06-01T02:19:48.713Z",
+        "conversion": "1000 BOB = 118.91 USD (paralelo)"
       },
       "status": "SUCCESS"
     }

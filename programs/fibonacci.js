@@ -4,7 +4,7 @@
  * Autor: [Tu nombre]
  * Fecha: [Fecha actual]
  */
-
+//NUEVO SUBIDA
 /**
  * Genera los N primeros números de la serie de Fibonacci
  * @param {number} n - Cantidad de números a generar
