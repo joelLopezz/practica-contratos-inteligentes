@@ -4,7 +4,7 @@
  * Autor: [Tu nombre]
  * Fecha: [Fecha actual]
  */
-
+ //factorial NEW
 /**
  * Calcula el factorial de un número
  * @param {number} n - Número del cual calcular el factorial
