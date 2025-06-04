@@ -1,6 +1,6 @@
 {
   "proyecto": "Práctica 6: Contrato Inteligente de Verificación de Entregables",
-  "timestamp": "2025-06-01T02:19:46.638Z",
+  "timestamp": "2025-06-04T06:05:34.851Z",
   "resultados": {
     "fibonacci": {
       "fibonacci_10": [
@@ -82,42 +82,42 @@
     "conversor": {
       "tipos_cambio": {
         "oficial": {
-          "rate": 6.92,
+          "rate": 6.93,
           "source": "ExchangeRate-API (Oficial)",
-          "timestamp": "2025-06-01T02:19:47.392Z",
+          "timestamp": "2025-06-04T06:05:35.502Z",
           "success": true
         },
         "paralelo": {
-          "rate": 8.17,
+          "rate": 7.78,
           "source": "Mercado Paralelo (Simulado)",
-          "timestamp": "2025-06-01T02:19:47.660Z",
+          "timestamp": "2025-06-04T06:05:35.791Z",
           "success": true,
-          "variacionPorcentual": "18.0%"
+          "variacionPorcentual": "12.2%"
         },
         "diferencia": {
-          "absoluta": "1.25",
-          "porcentual": "18.1%"
+          "absoluta": "0.85",
+          "porcentual": "12.3%"
         },
-        "timestamp": "2025-06-01T02:19:47.660Z",
+        "timestamp": "2025-06-04T06:05:35.791Z",
         "success": true
       },
       "conversion_100usd": {
         "usd": 100,
-        "bob": 692,
-        "tipoCambio": 6.92,
+        "bob": 693,
+        "tipoCambio": 6.93,
         "tipoUsado": "oficial",
         "fuente": "ExchangeRate-API (Oficial)",
-        "timestamp": "2025-06-01T02:19:48.183Z",
-        "conversion": "100 USD = 692.00 BOB (oficial)"
+        "timestamp": "2025-06-04T06:05:36.307Z",
+        "conversion": "100 USD = 693.00 BOB (oficial)"
       },
       "conversion_1000bob": {
         "bob": 1000,
-        "usd": 118.91,
-        "tipoCambio": 8.41,
+        "usd": 120.34,
+        "tipoCambio": 8.31,
         "tipoUsado": "paralelo",
         "fuente": "Mercado Paralelo (Simulado)",
-        "timestamp": "2025-06-01T02:19:48.713Z",
-        "conversion": "1000 BOB = 118.91 USD (paralelo)"
+        "timestamp": "2025-06-04T06:05:36.818Z",
+        "conversion": "1000 BOB = 120.34 USD (paralelo)"
       },
       "status": "SUCCESS"
     }

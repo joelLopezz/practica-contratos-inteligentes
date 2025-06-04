@@ -2,7 +2,7 @@
 
 ## Información General
 - **Proyecto:** Práctica 6: Contrato Inteligente de Verificación de Entregables
-- **Fecha:** 31/5/2025, 22:19:46
+- **Fecha:** 4/6/2025, 02:05:34
 - **Estado:** TODOS LOS PROGRAMAS FUNCIONANDO CORRECTAMENTE
 
 ## Resultados por Programa
@@ -19,9 +19,9 @@
 
 ### 💱 Conversor USD/BOB
 - **Estado:** SUCCESS
-- **Tipo Cambio Oficial:** 6.92 BOB/USD
-- **Tipo Cambio Paralelo:** 8.17 BOB/USD
-- **Diferencia:** 18.1%
+- **Tipo Cambio Oficial:** 6.93 BOB/USD
+- **Tipo Cambio Paralelo:** 7.78 BOB/USD
+- **Diferencia:** 12.3%
 
 ## Resumen Final
 - ✅ **Programas Exitosos:** 3
