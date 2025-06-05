@@ -4,7 +4,7 @@
  * Autor: [Tu nombre]
  * Fecha: [Fecha actual]
  */
-// conversor New
+// Ricardo Revision conversor 
 // Simulación de datos para cuando las APIs no estén disponibles
 const MOCK_DATA = {
     oficial: 6.96,
